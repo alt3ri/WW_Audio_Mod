@@ -18,4 +18,8 @@ How to use:
 The modded `.pak` location should be: 
 `YOURDRIVE:\...\Wuthering Waves\Wuthering Waves Game\Client\Content\Paks\~mod`
 
+4) Create a shortcut of Client-Win64-Shipping.exe > Right click on that shortcut > click on Properties
+5) In the Target, add `-fileopenlog` at the end of the line
+6) Run the shortcut to check the result
+
 Want to add more? Go to [Issue](https://github.com/alt3ri/WW_Audio_Mod/issues)
