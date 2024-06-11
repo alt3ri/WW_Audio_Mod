@@ -8,6 +8,7 @@ This mod replace:
 - Inferno Rider: Crank! from [Punishing: Gray Raven OST](https://www.youtube.com/watch?v=nZgg4-e-pSY)
 - Tempest Memphis: To The Limit from [Punishing: Gray Raven OST](https://www.youtube.com/watch?v=a545Gv3jGzg)
 - Login BGM: Flow from [Wuthering Waves CBT1 Theme music](https://www.youtube.com/watch?v=Dg4wxsGmLw4) 
+- Dreamless: Kuroi Uta (International) from [Drag-on Dragoon 3 OST](https://www.youtube.com/watch?v=krRNjUJIfFk)
 
 Download: Click on `~mod` and choose any .pak file you want. Click on `Raw` then it will download for you.
 
