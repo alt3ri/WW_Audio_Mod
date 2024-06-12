@@ -4,11 +4,17 @@ Made by [alteri = me](https://alteri.moe) | Find me on X/Twitter: [@alteria0](ht
 With help from my friend [Adam](https://x.com/NotFakeAdam)
 
 This mod replace:
-- Crownless: Dependent Weakling from [NieR:Automata Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_l--G5hZu15rmQoiNnHHGCARJ5xJePbWOM&playnext=1&index=1)
-- Inferno Rider: Crank! from [Punishing: Gray Raven OST](https://www.youtube.com/watch?v=nZgg4-e-pSY)
-- Tempest Memphis: To The Limit from [Punishing: Gray Raven OST](https://www.youtube.com/watch?v=a545Gv3jGzg)
-- Login BGM: Flow from [Wuthering Waves CBT1 Theme music](https://www.youtube.com/watch?v=Dg4wxsGmLw4) 
-- Dreamless: Kuroi Uta (International) from [Drag-on Dragoon 3 OST](https://www.youtube.com/watch?v=krRNjUJIfFk)
+- Crownless: 
+    + Dependent Weakling from [NieR:Automata Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_l--G5hZu15rmQoiNnHHGCARJ5xJePbWOM&playnext=1&index=1)
+- Inferno Rider: 
+    + Crank! from [Punishing: Gray Raven OST](https://www.youtube.com/watch?v=nZgg4-e-pSY)
+- Tempest Memphis: 
+    + To The Limit from [Punishing: Gray Raven OST](https://www.youtube.com/watch?v=a545Gv3jGzg)
+- Login BGM: 
+    + Flow from [Wuthering Waves CBT1 Theme music](https://www.youtube.com/watch?v=Dg4wxsGmLw4) 
+- Dreamless: 
+    + Kuroi Uta (International) from [Drag-on Dragoon 3 OST](https://www.youtube.com/watch?v=krRNjUJIfFk)
+    + Miku from [Anamanaguchi - Miku ft. Hatsune Miku](https://www.youtube.com/watch?v=qhv5OeH_7kc)
 
 Download: Click on `~mod` and choose any .pak file you want. Click on `Raw` then it will download for you.
 
