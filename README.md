@@ -12,6 +12,7 @@ This mod replace:
     + To The Limit from [Punishing: Gray Raven OST](https://www.youtube.com/watch?v=a545Gv3jGzg)
 - Login BGM: 
     + Flow from [Wuthering Waves CBT1 Theme music](https://www.youtube.com/watch?v=Dg4wxsGmLw4) 
+    + Stellarira from [Punishing: Gray Raven OST](https://www.youtube.com/watch?v=TeKtgYlvsZM)
 - Dreamless: 
     + Kuroi Uta (International) from [Drag-on Dragoon 3 OST](https://www.youtube.com/watch?v=krRNjUJIfFk)
     + Miku from [Anamanaguchi - Miku ft. Hatsune Miku](https://www.youtube.com/watch?v=qhv5OeH_7kc)
