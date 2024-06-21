@@ -4,6 +4,8 @@ Made by [alteri = me](https://alteri.moe) | Find me on X/Twitter: [@alteria0](ht
 With help from my friend [Adam](https://x.com/NotFakeAdam)
 
 This mod replace:
+- Jinzhou: Shade Ridge
+    + epilouge from [Kara no Kyoukai - Ongakushu](https://www.youtube.com/watch?v=6hSCfoYTWVM)
 - Crownless: 
     + Dependent Weakling from [NieR:Automata Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_l--G5hZu15rmQoiNnHHGCARJ5xJePbWOM&playnext=1&index=1)
 - Inferno Rider: 
